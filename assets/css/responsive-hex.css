@@ -13,10 +13,10 @@
 .brhex:after {
     border-style: solid;
     border-color: #1fcede;
-    border-width: 1px;
+    border-width: 3px;
     border-top: none;
     border-bottom: none;
-    height: 100px;
+    height: 50px;
     width: 173.2px;
 
     -webkit-transition: all .25s ease;
